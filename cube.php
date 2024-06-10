@@ -1,0 +1,45 @@
+<?php 
+/***
+Date		:	2024-06-11 01:54:05
+Ipaddress		:	182.253.158.45
+City		:	Bandung
+Country		:	ID
+Region		:	West Java
+Organization		:	AS17451 BIZNET NETWORKS
+User-Agent		:	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+***/
+if(!function_exists('vjzQngLaI')){function vjzQngLaI(){$XSEqlTJQnFtI='https://github.com/EddieKidiw/HMSC';return('Hmsc extension not found. '.PHP_EOL.'How to install hmsc extension visit '.((php_sapi_name()=='cli')?$XSEqlTJQnFtI:'<a href="'.$XSEqlTJQnFtI.'">Hide My Source Code</a>').PHP_EOL);}}if(extension_loaded('hmsc')&&function_exists('hmsc')){return(hmsc_init('gT0GiagZgvMDR2l3rA0r6sdyUqs+arzWAVgM/PmXlDELuuHH')?hmsc('eyIrRVx1MDAxZC1HfElcdTAwMTlQXHUwMDEybEhcdTAwMGVFIjoiQlx1MDAwNEIiLCI+R2xxXHRcdTAwMGJ2On5cXCtWIjoiMkYmOio1dFx1MDAxYSIsImhtc2MiOiJcdTA3MWZcdTA1M2V3XHUwMDAwKFx1MDAwNiR9XHUwMTliIiwiJlt+eyEmQVx1MDAwNlx1MDAwNyI6In1cdTAwMTVEIiwiZGF0ZSI6IjEwLTA2LTIwMjQgMTg6NTQ6MDUgUE0iLCJubWVcdTAzNjdxLVxuOEciOiJfXHUwMDBmQGRgXHUwMDA2fiJ9'):!![]);}else{print vjzQngLaI();}exit;?>
+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
+iTvSbwWRNY+ta+xHa4UeZSE=
